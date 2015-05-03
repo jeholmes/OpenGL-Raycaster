@@ -1,0 +1,7 @@
+Ray-sphere intersection and local illumination: Implemented.
+Shadows: Implemented.
+Reflections: Implemented.
+Chess board: Implemented.
+Refraction: Implemented.
+Diffuse reflections using stochastic ray generation: Implemented, but seemingly no effect.
+Supersampling to reduce aliasing: Implemented, but functions incorrectly.

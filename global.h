@@ -1,0 +1,8 @@
+#define RES_SCALE 3
+
+#define DIFFUSE 5
+
+#define WIN_WIDTH 256*RES_SCALE
+#define WIN_HEIGHT 256*RES_SCALE
+
+#define IMAGE_WIDTH 5.0
